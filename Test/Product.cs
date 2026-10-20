@@ -10,5 +10,6 @@ namespace Test
     {
         int id;
         string name;
+        long barcode;
     }
 }
